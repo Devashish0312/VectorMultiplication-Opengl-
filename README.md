@@ -6,4 +6,4 @@ Output Vectors - White
 Dependencies - Freeglut, glew, glm
 
 
-![Actual Gameplay](./Screenshot.png)
+![ScreenShot](./screen.PNG)
