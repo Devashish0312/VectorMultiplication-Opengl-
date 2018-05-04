@@ -4,3 +4,6 @@ Input Vectors - Red
 Output Vectors - White
 
 Dependencies - Freeglut, glew, glm
+
+
+![Actual Gameplay](./Screenshot.png)
